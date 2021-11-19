@@ -1,1 +1,33 @@
+body {
+    font-family: sans-serif;
+}
 
+main h1 {
+    text-align: center;
+
+}
+
+main {
+    background-image: linear-gradient(to right,#FF8740,#FFA773,#FF8740);
+}
+
+.link-header {
+    text-align: center;
+}
+
+.link-nav2 {
+    display: block;
+    text-align: right;
+    color: #071A71;
+}
+
+.link-nav {
+    display: block;
+    color: #071A71;
+    position: absolute;
+    top: 25px;
+}
+
+ul {
+    color: #05326D;
+}
