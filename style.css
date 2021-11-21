@@ -1,33 +1,59 @@
 body {
     font-family: sans-serif;
+    background-image: linear-gradient( to right, #0772A1,#60D6A7);
 }
+
+header a:focus {
+    background-image: linear-gradient(to right,#FF6440,#FF8E73);
+
+} 
 
 main h1 {
     text-align: center;
-
+    width: 100%;
 }
 
 main {
-    background-image: linear-gradient(to right,#FF8740,#FFA773,#FF8740);
+    font-size: 50px;
+    width: 1000px;
 }
 
 .link-header {
-    text-align: center;
+   position: relative;
+   left: 500px;
+   font-size: 30px;
 }
 
 .link-nav2 {
     display: block;
-    text-align: right;
-    color: #071A71;
+    color: #3914AF;
+    position: relative;
+    left: 600px;
+    text-decoration: none;
 }
 
 .link-nav {
     display: block;
-    color: #071A71;
-    position: absolute;
-    top: 25px;
+    color: #3914AF;
+    position: relative;
+    top: 60px;
+    left: 80px;
+    text-decoration: none;
 }
 
 ul {
     color: #05326D;
 }
+
+a:hover {
+    color:#FF0000;
+}
+
+a:visited {
+    color: #1c64c2;
+}
+
+ img {
+    position: relative;
+    top: 50px;
+ }
