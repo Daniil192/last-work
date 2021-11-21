@@ -29,7 +29,7 @@ main {
     display: block;
     color: #5F2580;
     position: relative;
-    left: 600px;
+    right: 350px;
     text-decoration: none;
 }
 
@@ -38,7 +38,7 @@ main {
     color: #5F2580;
     position: relative;
     top: 60px;
-    left: 80px;
+    left: 350px;
     text-decoration: none;
 }
 
