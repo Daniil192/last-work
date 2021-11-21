@@ -8,6 +8,11 @@ header a:focus {
 
 } 
 
+header a {
+    position: absolute;
+    left: 750px;
+}
+
 main h1 {
     text-align: center;
     width: 100%;
