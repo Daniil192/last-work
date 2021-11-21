@@ -11,6 +11,7 @@ header a:focus {
 main h1 {
     text-align: center;
     width: 100%;
+    color: blue;
 }
 
 main {
@@ -26,7 +27,7 @@ main {
 
 .link-nav2 {
     display: block;
-    color: #3914AF;
+    color: #5F2580;
     position: relative;
     left: 600px;
     text-decoration: none;
@@ -34,15 +35,16 @@ main {
 
 .link-nav {
     display: block;
-    color: #3914AF;
+    color: #5F2580;
     position: relative;
     top: 60px;
-    left: 500px;
+    left: 80px;
     text-decoration: none;
 }
 
-ul {
-    color: #05326D;
+body {
+    color: 				
+#FFB700;
 }
 
 a:hover {
@@ -53,7 +55,7 @@ a:visited {
     color: #1c64c2;
 }
 
- img {
+img {
     position: relative;
     top: 50px;
  }
